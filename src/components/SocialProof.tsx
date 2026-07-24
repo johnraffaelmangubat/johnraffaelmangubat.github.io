@@ -56,7 +56,7 @@ export default function SocialProof() {
               <article className="group relative flex h-full flex-col overflow-hidden rounded-3xl border border-white/10 bg-white/[0.03] p-8 transition-all duration-500 hover:-translate-y-1.5 hover:border-white/30 hover:bg-white/[0.06] sm:p-10">
                 <span
                   aria-hidden
-                  className="absolute right-0 -top-8 font-display text-[7rem] font-semibold leading-none text-white/[0.04] transition-colors duration-500 group-hover:text-white/[0.08]"
+                  className="absolute right-0 top-0 font-display text-[7rem] font-semibold leading-none text-white/[0.04] transition-colors duration-500 group-hover:text-white/[0.08]"
                 >
                   0{i + 1}
                 </span>
